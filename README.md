@@ -18,7 +18,7 @@
   - **704-530-3525**
 - Instagram
   - **ethy.elder**
-<!-- .slide -->
+
 
 <!-- .slide -->
 
