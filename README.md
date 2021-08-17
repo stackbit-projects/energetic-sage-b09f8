@@ -20,22 +20,6 @@
   - **ethy.elder**
 <!-- .slide -->
 
-## Education
-
-<!-- .slide vertical=true -->
-
-School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
-
-- Master of Computer Science, Sept. 2021 - Jul. 2024 (expected)
-  - Advised by [Prof. X. Zhang](https://xianweiz.github.io/) at [NSCC-GZ](http://www.nscc-gz.cn/index.html)
-
-<!-- .slide vertical=true -->
-
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-  - Multicore Computing
 
 <!-- .slide -->
 
