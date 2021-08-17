@@ -9,7 +9,7 @@
 - Email
   - **ethy@fastmail.fr**
 - Site
-  - **<ethy.cc>**
+  - <ethy.cc>
 - [Resume](https://wu-kan.github.io/resume/resume.pdf)
 
 <!-- .slide vertical=true -->
