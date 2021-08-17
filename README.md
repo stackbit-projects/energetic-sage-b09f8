@@ -7,7 +7,7 @@
 ## Contact
 
 - Email
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **ethy@fastmail.fr**
 - Site
   - **<https://wu-kan.cn>**
 - [Resume](https://wu-kan.github.io/resume/resume.pdf)
