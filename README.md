@@ -18,10 +18,6 @@
   - **7045303525**
 - Instagram
   - **ethy.elder**
-- E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-
 <!-- .slide -->
 
 ## Education
