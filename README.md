@@ -16,7 +16,7 @@
 
 - Phone
   - **7045303525**
-- WeChat
+- 
   - **Wu-\_-Kan**
 - E-mail:
   - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
