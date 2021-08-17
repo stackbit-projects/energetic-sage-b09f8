@@ -20,7 +20,6 @@
   - **ethy.elder**
 <!-- .slide -->
 
-
 <!-- .slide -->
 
 ## Projects
