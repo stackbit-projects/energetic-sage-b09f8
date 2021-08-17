@@ -15,7 +15,7 @@
 <!-- .slide vertical=true -->
 
 - Phone
-  - **7045303525**
+  - **704-530-3525**
 - Instagram
   - **ethy.elder**
 <!-- .slide -->
